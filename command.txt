@@ -7,5 +7,10 @@ git remote add origin https://github.com/webdesigngit/my-second-git.git
 git push -u origin main
 
 
+git add .
+git commit -m "first commit"
+git push
+
+
 
 
